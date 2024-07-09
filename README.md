@@ -4,12 +4,17 @@
 Github:  
 - Repository: https://github.com/lauraszmigielska/MadTrainFlutter
 - Releases:
+
   Final app: https://github.com/lauraszmigielska/MadTrainFlutter/blob/main/mad_train_flutter.zip
+
   Flutter class app: https://github.com/lauraszmigielska/MadTrainFlutter/blob/main/flutter_class_project.zip
+
   Firt app: https://github.com/lauraszmigielska/MadTrainFlutter/blob/main/flutter_class_project.zip
 
 
+
 Workspace: https://upm365.sharepoint.com/sites/LauraSzmigielska/Documentos%20compartidos/Forms/AllItems.aspx
+
   
 
 ## Description
@@ -42,8 +47,8 @@ The MadTrainFlutter is a mobile application developed using Flutter, a framework
 
 ## Demo Video
 Video demonstrating how the app works (Max 1 video of 1 minute), upload it to a platform like YouTube or Vimeo (it might also work with Stream) and link it here:  
-<a href="https://youtube.com/shorts/VtRtD-xNA2U?feature=share">
-<img src="img/thumb.png" alt="Noise meter app" width="100" /> 
+<a href="https://www.youtube.com/watch?v=q8vcyDzHGSE">
+<img src="img/thumb.png" alt="MadTrainFlutter" width="100" /> 
 </a>
 
 
