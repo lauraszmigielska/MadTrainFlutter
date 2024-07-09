@@ -9,7 +9,7 @@ Github:
 
   Flutter class app: https://github.com/lauraszmigielska/MadTrainFlutter/blob/main/flutter_class_project.zip
 
-  Firt app: https://github.com/lauraszmigielska/MadTrainFlutter/blob/main/flutter_class_project.zip
+  First app: https://github.com/lauraszmigielska/MadTrainFlutter/blob/main/flutter_class_project.zip
 
 
 
