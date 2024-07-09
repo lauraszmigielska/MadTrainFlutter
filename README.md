@@ -4,11 +4,12 @@
 Github:  
 - Repository: https://github.com/lauraszmigielska/MadTrainFlutter
 - Releases:
-  https://github.com/lauraszmigielska/MadTrainFlutter/
-  https://github.com/lauraszmigielska/MadTrainFlutter/
+  Final app: https://github.com/lauraszmigielska/MadTrainFlutter/blob/main/mad_train_flutter.zip
+  Flutter class app: https://github.com/lauraszmigielska/MadTrainFlutter/blob/main/flutter_class_project.zip
+  Firt app: https://github.com/lauraszmigielska/MadTrainFlutter/blob/main/flutter_class_project.zip
 
 
-Workspace: https://upm365.sharepoint.com/sites/LauraSzmigielska/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2FLauraSzmigielska%2FDocumentos%20compartidos .  
+Workspace: https://upm365.sharepoint.com/sites/LauraSzmigielska/Documentos%20compartidos/Forms/AllItems.aspx
   
 
 ## Description
