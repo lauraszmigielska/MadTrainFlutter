@@ -132,7 +132,7 @@ Android: Compatible with smartphones and tablets running Android OS.
 iOS: Compatible with iPhones and iPads running iOS.
 Web: Supports deployment as a progressive web app (PWA) for use in web browsers.
 
-# Key Points:
+### Key Points:
 Device Compatibility: The app adapts its UI and functionality to various screen sizes and resolutions typical of smartphones, tablets, and web browsers.
 
 Operating System Support:
